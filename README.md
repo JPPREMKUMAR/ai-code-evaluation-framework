@@ -2,7 +2,7 @@
 
 Specification-driven test runner for a small library of coding tasks and repository-owned candidate solutions. The web API accepts only task and candidate IDs from a fixed allowlist. It does not accept or execute arbitrary code.
 
-Status: **Implemented, tested, and frontend build verified.** Not deployed or published to GitHub.
+Status: **Implemented, tested, and frontend build verified.** Not deployed. Public GitHub repository: https://github.com/JPPREMKUMAR/ai-code-evaluation-framework.
 
 ## Features
 
@@ -44,3 +44,4 @@ See [`docs/requirements.md`](docs/requirements.md) for MVP acceptance criteria, 
 ## License
 
 MIT. See `LICENSE`.
+
